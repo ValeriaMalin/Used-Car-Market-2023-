@@ -33,7 +33,7 @@ Fuel Type: The type of fuel the car requires.
 Fuel Consumption: Information about the car's fuel consumption in L/100km ang g/km. 
 Mileage: The total distance traveled by the car in km. 
 Offer Description: Additional description provided in the car offer.
-![image](https://github.com/user-attachments/assets/90b00d65-9835-47a4-9b0e-0dfcc26520ff)
+
 
 Methodology
 
