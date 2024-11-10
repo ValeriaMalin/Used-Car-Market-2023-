@@ -48,7 +48,7 @@ Download the dataset and save it to the /data directory within the repository fo
 Update the dataset path in the notebook or script as needed to load the data.
 Running the Analysis and Model Training
 Clone the repository:
-git clone https://github.com/ValeriaMalin/Used-Car-Market-2023-/edit/main/README.md
+git clone https://github.com/ValeriaMalin/Used-Car-Market-2023
 cd your-repo-name
 Install required packages:
 pip install -r requirements.txt
